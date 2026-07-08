@@ -51,9 +51,7 @@ Tabela: personagens
   5 | Batman        | Bruce Wayne  | Herói       | 1939        | 2
 ```
 
-## ⚠️ Observação
 
-No script atual, os comandos estão dentro de comentários de bloco (`/* ... */`), então é preciso remover as marcações de comentário antes de executar. Vale também revisar o fechamento de parênteses da tabela `editoras`, que ficou levemente desalinhado no bloco comentado.
 
 ## 🔍 Possíveis melhorias futuras
 
